@@ -1,7 +1,8 @@
 # XLA Engineering Notes
 
-Technical notes and deep dives from my contributions to OpenXLA/XLA.
+Notes from studying my contributions to OpenXLA.
 
-## Deep Dives
+## Contributions
 
-## Engineering Notes
+- [#44429 — Propagate HangWatchdog execution timeouts through CoordinationService](notes/44429-hang-watchdog-timeout-propagation.md)
+- [#44738 — Avoid splitting softmax scaled logits across CPU fusions](notes/44738-cpu-softmax-fusion.md)
